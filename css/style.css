@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.carousel-item{
+    height: 70vh;
+}
+
+.carousel-item > img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
